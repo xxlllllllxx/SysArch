@@ -2,7 +2,7 @@
 
 include_once("config.php");
 
-$db_name = "dtb_student";
+$db_name = "dtb_account";
 $uid = "root";
 $pass = "";
 
