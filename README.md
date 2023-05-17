@@ -1,6 +1,6 @@
 # SysArch
 
-#ACCOUNT MAGING SYSTEM
+## ACCOUNT MAGING SYSTEM
 
 
 sql dump is inside the include
