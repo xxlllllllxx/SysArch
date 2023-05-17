@@ -26,7 +26,7 @@ include_once("../include/connect.php");
         <div class="bg-info p-3">
             <div class="row">
                 <div class="text-center p-3 col-lg-8">
-                    <h2>STUDENT INFORMATION TABLE</h2>
+                    <h2>ACCOUNT INFORMATION TABLE</h2>
                 </div>
                 <div class="p-3 col-lg-4  d-flex justify-content-end">
                     <button class=" btn w-50 btn-success btn-lg" onclick="addNewRecord()">ADD</button>
@@ -67,7 +67,7 @@ include_once("../include/connect.php");
     <script>
         function addNewRecord() {
             Swal.fire({
-                title: "Add New Student",
+                title: "Add New Account",
                 html: `
                         <form id="add_form" class="mt-1">
                             <input type="hidden" name="add_new_record" value="1"/> 

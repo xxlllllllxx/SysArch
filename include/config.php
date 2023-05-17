@@ -4,4 +4,4 @@ $host = "localhost";
 $address = "{$host}/SysArch/";
 
 
-$sysname = "SysArch Login Manager";
+$sysname = "SysArch Account Manager";
