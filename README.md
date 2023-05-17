@@ -11,7 +11,7 @@ This repository contains the code for an Account Management System.
    - SSH: `git clone git@github.com:xxlllllllxx/SysArch.git`
    - GitHub CLI: `gh repo clone xxlllllllxx/SysArch`
 
-2. Import the SQL dump file provided in the `include/.sql` directory into your MySQL database.
+2. Import the SQL dump file provided in the `include/dtb_account.sql` directory into your MySQL database.
 
 ## Usage
 
